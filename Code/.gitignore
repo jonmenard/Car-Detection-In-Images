@@ -1,0 +1,4 @@
+
+**/*.hdf5
+!/Custom CNN/*.hdf5
+!.gitignore
