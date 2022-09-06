@@ -10,7 +10,8 @@ Python code and datasets to train a CNN for the detection of cars in images
 
 ***Deploy***
 
-https://github.com/jonmenard/mlCarDetector
+github: https://github.com/jonmenard/mlCarDetector
+personal website: https://jonmenard.github.io/machineLearning.html
 
 ---
 
